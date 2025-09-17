@@ -1,6 +1,6 @@
 # The CU-Multi Dataset
 <p align="center">
-  <img src="./assets/main.png" alt="banner">
+  <img src="main.png" alt="banner">
 </p>
 
 The CU-MULTI Dataset: A dataset aimed to support multi-robot map-merging, inter-robot place recognition and loop-closure detection.
